@@ -31,7 +31,7 @@ body{
 
 a.mainlink:link{color:#FFFFFF;}   
 a.mainlink:visited{color:#FFFFFF;}
-a.mainlink:hover{color:#FFFFFF;}
+a.mainlink:hover{color:#AAAAAA;}
 a.mainlink{
 	Text-decoration: none; 
 	font-size:20px;
